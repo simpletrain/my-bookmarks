@@ -1,0 +1,14 @@
+body {
+    margin: 10px 5%;
+}
+#box {
+    height: 60px;
+    background-color: #faf5f6;
+}
+#search {
+    height: 23px;
+    display: inline-block;
+    margin: 15px;
+    width: 97%;
+    font-size: 20px;
+}
